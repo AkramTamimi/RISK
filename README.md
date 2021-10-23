@@ -32,8 +32,11 @@ In this project I followed the next steps:
 8. Executed it
 ## Organization
 How did you organize your work? Did you use any tools like a trello or kanban board?
+
 I used a trello to organize my work.
+
 What does your repository look like? Explain your folder and file structure.
+
 My repository is very simple.
 I have my code in jupyter format and this Readme to explain the project
 ## Links
